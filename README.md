@@ -19,7 +19,9 @@
 
 An app that allows the user to enter all their teams information and keep it on an easy to read html page.
 
-[video walkthrough](https://bootcampspot.instructuremedia.com/embed/06bfbb1f-88b7-4a37-97f8-4a82e89cf1ed)
+![video walkthrough](src/images/Team-Profile-Generator.gif "Video Walkthrough")
+
+[Walkthrough] (https://watch.screencastify.com/v/bdcp49mTLygUsDjRMNhk)
 
 ![image of command prompt](src/images/cmd.jpg?raw=true "Command Prompt")
 ![image of the html generated into website](src/images/website.jpg?raw=true "Final Webpage")
@@ -54,7 +56,7 @@ HTML generation.
 
 Please get in touch with me via github or my email below.
 
-[Github](https://www.github.com/chase-risinger)
+[Github](https://github.com/DianeTritchler)
 
-ccr1988@gmail.com
+dtritchler92@gmail.com
 
